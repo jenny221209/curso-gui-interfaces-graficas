@@ -18,4 +18,4 @@
 
     - La siguiente linea se pede incluir en su archivo src index.js o App.js
 
-    $ "import bootstrap/dist/css/bootstrap.min.css";
+    $ import "bootstrap/dist/css/bootstrap.min.css";
